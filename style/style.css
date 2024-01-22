@@ -164,3 +164,54 @@
     color: white;
     height: 500px;
 }
+
+/* this footer section */
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+    max-width: 1400px;
+    margin: auto;
+
+}
+
+footer{
+    height: 60vh;
+    width: 100%;
+    background-color: black;
+}    
+
+.a{
+    width: 230px;
+    height: 300px;
+    text-align: start;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    list-style: none;
+}
+
+.hr{
+    width: 1500px;
+    margin: auto;
+}
+
+.copy{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.a > li{
+    margin-bottom: 5px;
+}
+.a > h2{
+    margin-bottom: 15px;
+}
+
+.loge-pic{
+    width: 170px;
+    margin-bottom: 15px;
+}
