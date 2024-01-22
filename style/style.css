@@ -211,6 +211,10 @@ footer{
     margin-bottom: 15px;
 }
 
+.a > p{
+    margin-bottom: 5px;
+}
+
 .loge-pic{
     width: 170px;
     margin-bottom: 15px;
