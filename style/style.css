@@ -1,0 +1,36 @@
+/* header section style */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu-container{
+    background-color: rgb(65, 59, 59);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    list-style: none;
+}
+
+.logo-photo{
+    width: 140px;
+}
+.menus{
+    display: flex;
+}
+.item{
+    margin-right: 15px;
+    padding-right: 7px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.item:hover{
+    color: rgb(153, 53, 53);
+}
+
+/* banner section style */
